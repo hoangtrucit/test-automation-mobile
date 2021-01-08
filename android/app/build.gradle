@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.testautomation"
+        applicationId "com.automation.az"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

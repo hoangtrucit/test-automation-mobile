@@ -1,4 +1,4 @@
-package com.testautomation;
+package com.automation.az;
 
 import com.facebook.react.ReactActivity;
 
